@@ -1,0 +1,31 @@
+Assignment 5
+CS 1410
+Steen Sia
+Atlanta
+
+The overall average rainfall amount is: 4.02
+The average rainfall amount for January is: 4.30
+The average rainfall amount for February is: 4.23
+The average rainfall amount for March is: 4.80
+The average rainfall amount for April is: 3.58
+The average rainfall amount for May is: 3.59
+The average rainfall amount for June is: 4.28
+The average rainfall amount for July is: 4.36
+The average rainfall amount for August is: 4.08
+The average rainfall amount for September is: 3.80
+The average rainfall amount for October is: 2.76
+The average rainfall amount for November is: 3.73
+The average rainfall amount for December is: 4.69
+The rain amount (in inches) of the four wettest months are: 14.63 13.65 12.51 9.94 
+The rain amount (in inches) of the four driest months are: 0.07 0.26 0.58 0.75 
+The ten median months are: 
+August 2003 3.48 
+August 2007 3.48 
+October 2008 3.48 
+February 2003 3.51 
+May 2002 3.52 
+March 2012 3.52 
+July 2012 3.53 
+October 2014 3.54 
+June 1998 3.58 
+February 2001 3.61 
